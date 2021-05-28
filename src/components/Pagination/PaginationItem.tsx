@@ -10,7 +10,7 @@ export function PaginationItem({ isCurrent = false, number }: PaginationItemProp
     return (
       <Button
         size="sm"
-        fonSize="xs"
+        fontSize="xs"
         width="4"
         colorScheme="pink"
         disabled
